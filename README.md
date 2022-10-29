@@ -1,5 +1,4 @@
-###Medical costs analysis in four USA states
-
+**Medical costs analysis in four USA states
 
 
 Background of dataset 
@@ -23,5 +22,6 @@ individuals age and medical costs
 
 BMI and medical costs 
 
-Hypothesis
+**Hypothesis
+
 The higher the age or BMI of the customer the higher the medical costs.
