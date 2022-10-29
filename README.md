@@ -12,10 +12,15 @@ Data source- data downloaded from: References of the dataset | Kaggle
 Questions to explore 
 -       What is the medical costs by: 
 ·       State
+
 ·       Gender for  all customers within the four states
+
 ·       Smoking status  for all customers within the four states
+
 -       Is there a relationship between: 
+
 individuals age and medical costs 
+
 BMI and medical costs 
 
 Hypothesis
